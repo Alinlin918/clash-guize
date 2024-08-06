@@ -1,6 +1,8 @@
 # 代理补充列表
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,hga030.com
+DOMAIN-SUFFIX,hga050.com
 DOMAIN-SUFFIX,qichiyu.com
 
 # 域名关键字匹配
